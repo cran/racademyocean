@@ -6,7 +6,9 @@
 \alias{racademyocean-package}
 \title{racademyocean: Client for 'AcademyOcean API'}
 \description{
-Provide function for work with 'AcademyOcean API' <https://academyocean.com/api>.
+\if{html}{\figure{logo.png}{options: style='float: right' alt='logo' width='120'}}
+
+Provide function for work with 'AcademyOcean API' \url{https://academyocean.com/api}.
 }
 \author{
 \strong{Maintainer}: Alexey Seleznev \email{selesnow@gmail.com} (\href{https://orcid.org/0000-0003-0410-7385}{ORCID})

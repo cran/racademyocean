@@ -19,7 +19,7 @@ ao_get_course_progress.default <- function(
 ) {
 
   cli_alert_info('Requested data by each email')
-  res <- pblapply(emails, ao_get_course_progress_helper)
+  res <- pblapply(emails, ao_get_course_progress_helper, cl = cl)
 
   cli_alert_info('Binding result')
   res <- bind_rows(res) %>%
