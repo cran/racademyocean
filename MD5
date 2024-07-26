@@ -1,7 +1,7 @@
-ce9c80899f2f7ad7fbf680ec333aa137 *DESCRIPTION
+8589272a805ed067ca87131d75fe1523 *DESCRIPTION
 2acde7f1e9441d5acb2289cc3b25ac33 *LICENSE
 9c288ca61312281c34899b91f585c3c8 *NAMESPACE
-6caf261a6be8889dbc68fcd748f7c953 *NEWS.md
+62b29207a245d77697ec5ba7031b4f55 *NEWS.md
 8409fae74295c9ece21bd5581b3d49bb *R/ao_auth.R
 3dd60d1f33af5f05d96514227ac685ce *R/ao_get_academies.R
 3892034b65ad5172521f993a8cf81d63 *R/ao_get_certificates.R
@@ -20,7 +20,7 @@ f2caa85687c8bb3e70a2fcc21ef77297 *R/ao_get_passive_leaners.R
 38c367334e71c9b83d4b8e2a79981d8c *R/ao_get_passive_learners.R
 f1576ba855ae9f59a67d83c3f7d973ea *R/ao_get_teams.R
 8ca5eaf9996c11321c87fdd69a0ec605 *R/racademyocean_package.R
-da71bfef55d3f5c50dc364024fac48f4 *R/utils.R
+a573d41ff42c514922ec0f7252309970 *R/utils.R
 6ee060bb07217ee438908d65b1035307 *R/zzz.R
 2ea2758fd348b6f076a47240aaca3075 *README.md
 a9a9c0c28273b72bcfe2ece96e5f4222 *man/ao_auth.Rd

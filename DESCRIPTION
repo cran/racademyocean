@@ -1,6 +1,6 @@
 Package: racademyocean
 Title: Client for 'AcademyOcean API'
-Version: 0.3.2
+Version: 0.3.3
 Authors@R: 
     c(person(given  = "Alexey",
              family = "Seleznev",
@@ -19,10 +19,10 @@ RoxygenNote: 7.2.1
 Imports: cli, dplyr, httr2, pbapply, purrr, rappdirs, retry, rlang,
         stringr, tidyr, utils, withr
 NeedsCompilation: no
-Packaged: 2023-02-09 14:45:21 UTC; SAMSUNG
+Packaged: 2024-07-26 08:20:34 UTC; SAMSUNG
 Author: Alexey Seleznev [aut, cre] (<https://orcid.org/0000-0003-0410-7385>),
   Netpeak [cph],
   AcademyOcean [cph]
 Maintainer: Alexey Seleznev <selesnow@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-02-09 15:10:13 UTC
+Date/Publication: 2024-07-26 09:00:02 UTC

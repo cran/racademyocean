@@ -30,7 +30,7 @@ oa_request <- function(
     {
       resp <- request(getOption('oa.base_url')) %>%
                 req_method("POST") %>%
-                req_body_form(body) %>%
+                req_body_form(!!!body) %>%
                 req_headers(Authorization = oa_access_token(token)) %>%
                 req_perform()
     },

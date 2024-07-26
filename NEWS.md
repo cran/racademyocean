@@ -1,3 +1,11 @@
+# racademyocean 0.3.3
+
+* Fix Error: 
+```
+Error in `req_body_form()`:
+! All components of `...` must be named.
+```
+
 # racademyocean 0.3.2
 
 * Cran fix: ao_get_leaners_progress_by_course_helper: no visible binding for global variable '.'. Undefined global functions or variables: .
